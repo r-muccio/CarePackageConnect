@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mailing-scenario xmlns="http://www.canadapost.ca/ws/ship/rate-v4">
+	<quote-type>counter</quote-type>
+	<expected-mailing-date>2022-05-23</expected-mailing-date>
+	<options>
+		<option>
+			<option-code>PA19</option-code>
+		</option>
+	</options>
+	<parcel-characteristics>
+		<weight>0.5</weight>
+		<dimensions>
+				<length>25</length>
+				<width>20</width>
+				<height>10</height>
+		</dimensions>
+	</parcel-characteristics>
+	<origin-postal-code>L4R1L6</origin-postal-code>
+	<destination>
+		<domestic>
+			<postal-code>L1N1Y5</postal-code>
+		</domestic>
+	</destination>
+</mailing-scenario>
